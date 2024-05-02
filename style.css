@@ -1,0 +1,76 @@
+*{
+    margin:20px;
+}
+.cabecalho-geral
+{
+    background-color: rgb(38, 40, 146);
+}
+.titulo-cabecalho
+{
+    color: rgb(200, 248, 242);
+    font-size: 60px;
+    font-family:"Franklin Gothic Medium";
+    display: flex;
+    justify-content: space-around;
+}
+.lista-secao
+{
+    color: ;
+    padding: 10PX;
+    font-size: 20PX;
+}
+.tit-secao
+{
+ color: rgb(39, 148, 182);
+ font-size: 40px;
+}
+.tit-1-secao
+{
+    color:rgb(82, 78, 78);
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.tit-2-secao
+{
+    color:rgb(14, 38, 145);
+    font-size: 40px;
+    font-family:'lucida sans', 'lucida sans regular',
+'lucida grande', 'lucida sans unicode', Geneva, Verdana, sans-serif;
+}
+.p-tit-1
+{
+    font-size: 20px;
+    color:rgb(43, 51, 124);
+}
+.p-tit-2
+{
+    font-size: 20px;
+    color:rgb(35, 54, 156);
+    font-family: 'trebuchet MS','lucida sans unicode', 'lucida grande', 'lucida sans', arial, sans-serif;
+
+}
+.item-1
+{
+    color: rgb(34, 34, 110);
+}
+.item-2
+{
+    color:rgb(63, 151, 202);
+}
+.item-22
+{
+    color: rgb(42, 42, 141);
+}
+.fonte
+{
+     color:rgb(42, 143, 194)
+}
+.secao 
+{
+    background-color: rgb(199, 226, 230);
+}
+.imagem
+{
+    width: 70%;
+    
+}
